@@ -48,15 +48,6 @@
 
 ---
 
-
-## 🌟 Featured Projects
-
-- 🔍 [Linear Regression From Scratch]
-- ✈️ [Solo Travel Recommendation App]
-
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rakshit-mehta-15a240202)

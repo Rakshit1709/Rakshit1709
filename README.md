@@ -34,11 +34,13 @@
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 **Big Data**  
 ![Hadoop](https://img.shields.io/badge/Hadoop-66ccff?style=for-the-badge&logo=apachehadoop&logoColor=black)  
 ![Spark](https://img.shields.io/badge/Spark-FF9900?style=for-the-badge&logo=apachespark&logoColor=white)  
 ![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge)  
 ![Pig](https://img.shields.io/badge/Pig-FFCC00?style=for-the-badge)  
+
 **Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  

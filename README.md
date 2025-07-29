@@ -46,13 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Rakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshitmehta&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitmehta&layout=compact&theme=radical)
-
----
 
 ## 🌟 Featured Projects
 

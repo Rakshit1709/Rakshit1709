@@ -50,7 +50,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rakshit-mehta-17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rakshit-mehta17)
 [![Mail](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:rakshitm083@gmail.com)
 
 ---

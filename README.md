@@ -1,6 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Rakshit Mehta</h1>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RakshitMehta17&label=Profile%20Visits&color=blue&style=for-the-badge" alt="RakshitMehta17" />
+</p>
+
 🎓 I'm a Big Data and Cloud Engineering student passionate about Data Science, Machine Learning, and System Design.  
 🔍 Currently building projects that bridge the gap between Big Data systems and real-world data applications.  
 🌱 Learning every day and working .  
